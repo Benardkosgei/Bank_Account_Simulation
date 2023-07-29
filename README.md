@@ -1,5 +1,3 @@
-# Bank_Account_Simulation
- 
 # Bank Account Simulation
 
 This repository contains a Java program that simulates a simple banking system with three types of bank accounts: Checking Account, Savings Account, and Credit Card Account. The program allows users to perform basic banking operations such as depositing, withdrawing, and checking the account balance. Additionally, the program implements specific features for each account type, such as overdraft limit for checking accounts and interest calculation for savings accounts.
